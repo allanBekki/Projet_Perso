@@ -1,0 +1,33 @@
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\bin\Debug\Spammeur.exe.config
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\bin\Debug\Spammeur.exe
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\bin\Debug\Spammeur.pdb
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.AssemblyReference.cache
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.SuggestedBindingRedirects.cache
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\obj\Debug\Spammeur.Form1.resources
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\obj\Debug\Spammeur.Properties.Resources.resources
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.GenerateResource.cache
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.CoreCompileInputs.cache
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\obj\Debug\Spammeur.exe
+E:\Developpement Perso\C#\Spammer\Spammeur\Spammeur\obj\Debug\Spammeur.pdb
+D:\Allan\spammeurv2\Spammeur\Spammeur\bin\Debug\Spammeur.exe.config
+D:\Allan\spammeurv2\Spammeur\Spammeur\bin\Debug\Spammeur.exe
+D:\Allan\spammeurv2\Spammeur\Spammeur\bin\Debug\Spammeur.pdb
+D:\Allan\spammeurv2\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.AssemblyReference.cache
+D:\Allan\spammeurv2\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.SuggestedBindingRedirects.cache
+D:\Allan\spammeurv2\Spammeur\Spammeur\obj\Debug\Spammeur.Form1.resources
+D:\Allan\spammeurv2\Spammeur\Spammeur\obj\Debug\Spammeur.Properties.Resources.resources
+D:\Allan\spammeurv2\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.GenerateResource.cache
+D:\Allan\spammeurv2\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.CoreCompileInputs.cache
+D:\Allan\spammeurv2\Spammeur\Spammeur\obj\Debug\Spammeur.exe
+D:\Allan\spammeurv2\Spammeur\Spammeur\obj\Debug\Spammeur.pdb
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\bin\Debug\Spammeur.exe.config
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\bin\Debug\Spammeur.exe
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.AssemblyReference.cache
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.SuggestedBindingRedirects.cache
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\obj\Debug\Spammeur.Form1.resources
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\obj\Debug\Spammeur.Properties.Resources.resources
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.GenerateResource.cache
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\obj\Debug\Spammeur.csproj.CoreCompileInputs.cache
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\obj\Debug\Spammeur.exe
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\obj\Debug\Spammeur.pdb
+E:\Developpement Perso\C#\Spammeur_Finale\Spammeur\Spammeur\bin\Debug\Spammeur.pdb
